@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06"><generation-date>2026-10-13T16:59:13+03:00</generation-date>
+  <offer internal-id="6941689">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>1-комн. квартира 39,3 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус Б1</address>
+    </location>
+    <price>
+      <value>18864000</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/6941689/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409264.png?v=1791896731</image>
+    <area>
+      <value>39</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>1-комнатная квартира 39,3 м², 1 этаж из 4, корпус Б1. С патио, чистовая отделка, окна во двор, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>1-комнатная</custom_label_0>
+    <custom_label_1>Корпус Б1</custom_label_1>
+    <custom_label_2>до 20 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Чистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="6941691">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>3-комн. квартира 93,91 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус Б1</address>
+    </location>
+    <price>
+      <value>37564000</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/6941691/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409261.png?v=1791896731</image>
+    <area>
+      <value>94</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>3</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>3-комнатная квартира 93,91 м², 1 этаж из 4, корпус Б1. С патио, предчистовая отделка, вид на лес, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>3-комнатная</custom_label_0>
+    <custom_label_1>Корпус Б1</custom_label_1>
+    <custom_label_2>30-40 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Предчистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7013271">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 62,18 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус Б2</address>
+    </location>
+    <price>
+      <value>30779100</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7013271/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409250.png?v=1791896727</image>
+    <area>
+      <value>62</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 62,18 м², 1 этаж из 4, корпус Б2. С патио, чистовая отделка, окна во двор, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус Б2</custom_label_1>
+    <custom_label_2>30-40 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Чистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7013293">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 59,73 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус Б2</address>
+    </location>
+    <price>
+      <value>29760473</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7013293/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409362.png?v=1791883895</image>
+    <area>
+      <value>60</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 59,73 м², 1 этаж из 4, корпус Б2. С патио, чистовая отделка, окна во двор, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус Б2</custom_label_1>
+    <custom_label_2>20-30 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Чистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7013294">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 62,17 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус Б2</address>
+    </location>
+    <price>
+      <value>30976202</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7013294/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409363.png?v=1791883895</image>
+    <area>
+      <value>62</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 62,17 м², 1 этаж из 4, корпус Б2. С патио, чистовая отделка, окна во двор, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус Б2</custom_label_1>
+    <custom_label_2>30-40 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Чистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7407010">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>1-комн. квартира 40,89 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус В6</address>
+    </location>
+    <price>
+      <value>20363220</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7407010/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409302.png?v=1791896741</image>
+    <area>
+      <value>41</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>1</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>1-комнатная квартира 40,89 м², 1 этаж из 4, корпус В6. С патио, предчистовая отделка, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>1-комнатная</custom_label_0>
+    <custom_label_1>Корпус В6</custom_label_1>
+    <custom_label_2>20-30 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Предчистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7407011">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 62,96 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус В6</address>
+    </location>
+    <price>
+      <value>30535600</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7407011/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409303.png?v=1791896743</image>
+    <area>
+      <value>63</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 62,96 м², 1 этаж из 4, корпус В6. С патио, предчистовая отделка, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус В6</custom_label_1>
+    <custom_label_2>30-40 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Предчистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7407013">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 64,14 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус В6</address>
+    </location>
+    <price>
+      <value>31107900</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7407013/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409304.png?v=1791896743</image>
+    <area>
+      <value>64</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 64,14 м², 1 этаж из 4, корпус В6. С патио, предчистовая отделка, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус В6</custom_label_1>
+    <custom_label_2>30-40 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Предчистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7407014">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 53,78 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус В6</address>
+    </location>
+    <price>
+      <value>26083300</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7407014/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409305.png?v=1791896743</image>
+    <area>
+      <value>54</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 53,78 м², 1 этаж из 4, корпус В6. С патио, предчистовая отделка, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус В6</custom_label_1>
+    <custom_label_2>20-30 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Предчистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7407015">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 65,09 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус В6</address>
+    </location>
+    <price>
+      <value>31568650</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7407015/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409306.png?v=1791896743</image>
+    <area>
+      <value>65</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 65,09 м², 1 этаж из 4, корпус В6. С патио, предчистовая отделка, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус В6</custom_label_1>
+    <custom_label_2>30-40 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Предчистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7407016">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 63,25 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус В6</address>
+    </location>
+    <price>
+      <value>30043750</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7407016/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409289.png?v=1791896738</image>
+    <area>
+      <value>63</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 63,25 м², 1 этаж из 4, корпус В6. С патио, предчистовая отделка, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус В6</custom_label_1>
+    <custom_label_2>30-40 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Предчистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7407017">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 64,93 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус В6</address>
+    </location>
+    <price>
+      <value>30841750</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7407017/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409290.png?v=1791896738</image>
+    <area>
+      <value>65</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 64,93 м², 1 этаж из 4, корпус В6. С патио, предчистовая отделка, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус В6</custom_label_1>
+    <custom_label_2>30-40 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Предчистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7473282">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 70,16 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус В5</address>
+    </location>
+    <price>
+      <value>33676800</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7473282/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409325.png?v=1791896747</image>
+    <area>
+      <value>70</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 70,16 м², 1 этаж из 4, корпус В5. С патио, предчистовая отделка, окна во двор, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус В5</custom_label_1>
+    <custom_label_2>30-40 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Предчистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7473283">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 61,42 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус В5</address>
+    </location>
+    <price>
+      <value>29481600</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7473283/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409326.png?v=1791896747</image>
+    <area>
+      <value>61</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 61,42 м², 1 этаж из 4, корпус В5. С патио, предчистовая отделка, окна во двор, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус В5</custom_label_1>
+    <custom_label_2>20-30 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Предчистовая отделка</custom_label_4>
+  </offer>
+  <offer internal-id="7473285">
+    <type>продажа</type>
+    <property-type>жилая</property-type>
+    <category>квартира</category>
+    <building-name>2-комн. квартира 62,93 м², Ранта Резиденс</building-name>
+    <organization>LAR Development</organization>
+    <location>
+      <country>Россия</country>
+      <region>Санкт-Петербург</region>
+      <locality-name>Санкт-Петербург</locality-name>
+      <sub-locality-name>Курортный район</sub-locality-name>
+      <address>Зеленогорск, Кривоносовская улица, 57, корпус В5</address>
+    </location>
+    <price>
+      <value>30835700</value>
+      <currency>RUB</currency>
+    </price>
+    <url>https://lar-dev.ru/kvartiru/7473285/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409327.png?v=1791896748</image>
+    <area>
+      <value>63</value>
+      <unit>кв. м</unit>
+    </area>
+    <rooms>2</rooms>
+    <floor>1</floor>
+    <floors_total>4</floors_total>
+    <floors>4</floors>
+    <built-year>2026</built-year>
+    <description>2-комнатная квартира 62,93 м², 1 этаж из 4, корпус В5. С патио, предчистовая отделка, окна во двор, потолки 3 м. Цена при 100% оплате или ипотеке. Малоэтажный ЖК бизнес-класса в сосновом лесу Зеленогорска. Срок сдачи: IV квартал 2026 года.</description>
+    <custom_label_0>2-комнатная</custom_label_0>
+    <custom_label_1>Корпус В5</custom_label_1>
+    <custom_label_2>30-40 млн</custom_label_2>
+    <custom_label_3>С патио</custom_label_3>
+    <custom_label_4>Предчистовая отделка</custom_label_4>
+  </offer>
+  </realty-feed>
