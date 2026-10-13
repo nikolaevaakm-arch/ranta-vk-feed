@@ -6,6 +6,7 @@
 Адреса исходных фидов содержат токены, поэтому в коде их нет: env MACRO_FEED_URL и NOVOSTROY_FEED_URL
 или файл ~/.config/ranta-mcp/vk_feed.env (строки KEY=VALUE).
 
+v0.5 от 2026-10-13: тематические фиды SEGMENTS (террасы, патио, двухуровневые); терраса в описании.
 v0.4 от 2026-10-13: цена при 100% оплате или ипотеке (estate_price_action, -15%) с условием в описании;
 UTM с макросами VK; фото из прошлого фида, если в novostroy лота нет.
 Прошлые версии: archive/2026-10-13_build_vk_feed_novostroy_v01.py
@@ -74,12 +75,35 @@ def price_bucket(p):
     return "от 40 млн"
 
 
+def is_duplex(x):
+    return (x.get("estate_levelsCount") or 1) > 1
+
+
+def is_patio(x):
+    # customText3 = 1: патио (все на 1 этаже, в описании лота «В планировке предусмотрены: патио»)
+    return x.get("estate_customText3") == "1"
+
+
+def has_terrace(x):
+    # площадь террасы заполнена только у лотов, где терраса есть в планировке
+    return bool(x.get("estate_area_terrace"))
+
+
+# Тематические фиды: имя файла -> отбор лотов
+SEGMENTS = {
+    "vk_feed_terrace.xml": has_terrace,
+    "vk_feed_patio.xml": is_patio,
+    "vk_feed_duplex.xml": is_duplex,
+}
+
+
 def lot_format(x):
-    # levelsCount = 2: двухуровневая; customText3 = 1: патио (совпадает с 1 этажом и патио в описании)
-    if (x.get("estate_levelsCount") or 1) > 1:
+    if is_duplex(x):
         return "Двухуровневая"
-    if x.get("estate_customText3") == "1":
+    if is_patio(x):
         return "С патио"
+    if has_terrace(x):
+        return "С террасой"
     return "Классическая"
 
 
@@ -101,8 +125,10 @@ def build_desc(x, price_mode):
            f"{x['estate_floor']} этаж из {x['estate_floors_in_house']}, корпус {section(x)}.")
     extra = []
     fmt = lot_format(x)
-    if fmt != "Классическая":
+    if fmt in ("Двухуровневая", "С патио"):
         extra.append(fmt.lower())
+    if has_terrace(x):
+        extra.append(f"терраса {fnum(x['estate_area_terrace'])} м²")
     extra.append(f"{(x.get('estate_restoration') or '').lower()} отделка")
     if window_view(x):
         extra.append(window_view(x))
@@ -232,6 +258,19 @@ def convert(lots, price_mode="action", novostroy=None, prev_images=None):
         stats["offers"] += 1
     ET.indent(out)
     return out, stats
+
+
+def subset(root, ids):
+    """Копия фида только с лотами из ids"""
+    out = ET.Element(N + "realty-feed")
+    for el in root:
+        if el.tag != N + "offer" or el.get("internal-id") in ids:
+            out.append(el)
+    return out
+
+
+def segment_ids(lots, pred):
+    return {str(x["id"]) for x in lots if is_active(x) and pred(x)}
 
 
 def main():

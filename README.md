@@ -2,7 +2,17 @@
 
 Каталог недвижимости для VK Рекламы (спецификация Yandex Realty), 1 лот = 1 квартира в свободной продаже.
 
-**Ссылка на фид для VK:** `https://<логин>.github.io/ranta-vk-feed/vk_feed.xml`
+## Фиды для VK
+
+| Фид | Ссылка | Отбор |
+|---|---|---|
+| Все квартиры | https://nikolaevaakm-arch.github.io/ranta-vk-feed/vk_feed.xml | свободные квартиры |
+| С террасой | https://nikolaevaakm-arch.github.io/ranta-vk-feed/vk_feed_terrace.xml | заполнена площадь террасы (`estate_area_terrace`) |
+| С патио | https://nikolaevaakm-arch.github.io/ranta-vk-feed/vk_feed_patio.xml | `estate_customText3 = 1` (1 этаж) |
+| Двухуровневые | https://nikolaevaakm-arch.github.io/ranta-vk-feed/vk_feed_duplex.xml | `estate_levelsCount = 2` |
+
+Тематические фиды собираются из уже проверенного основного фида и обновляются только вместе с ним.
+Если состав тематического фида меняется, это попадает в сводку в Telegram.
 
 ## Как работает
 

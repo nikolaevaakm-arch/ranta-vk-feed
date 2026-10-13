@@ -7,7 +7,9 @@
 4. Сравнивает с текущим фидом VK: новые и ушедшие лоты, изменения цен, фото, описаний.
 5. Предохранители: если лотов 0 или меньше --min-ratio от текущего, или фид не прошел проверку,
    файл не заменяется, код выхода 2.
-6. Пишет запись в журнал (--log) и отправляет сводку в Telegram (если заданы TG_TOKEN и TG_CHAT
+6. Рядом с основным фидом пишет тематические (build_vk_feed.SEGMENTS): террасы, патио,
+   двухуровневые. Они собираются из проверенного основного и обновляются только вместе с ним.
+7. Пишет запись в журнал (--log) и отправляет сводку в Telegram (если заданы TG_TOKEN и TG_CHAT
    или файлы ~/.config/ranta-mcp/telegram_bot_token и telegram_chat_id).
 
 Запуск: python3 vk_feed_sync.py --feed путь/vk_feed.xml --log путь/sync_log.md [--dry-run] [--force]
@@ -187,7 +189,25 @@ def main():
     status = "СТОП, фид не обновлен" if stop and not args.force else "обновлен"
     if args.dry_run:
         status = "проверка без записи (dry-run)"
-    elif not stop or args.force:
+    seg_lines = []
+    for fname, pred in bf.SEGMENTS.items():
+        ids = bf.segment_ids(lots, pred) & set(new)
+        path = os.path.join(os.path.dirname(os.path.abspath(args.feed)), fname)
+        before = set(read_feed(path))
+        seg_lines.append(f"{fname}: {len(ids)}" + (f" (было {len(before)})" if before != ids else ""))
+        if not ids:
+            alerts.append(f"{fname}: 0 лотов, VK может отклонить пустой каталог")
+        if not args.dry_run and (not stop or args.force):
+            tmp = path + ".tmp"
+            ET.ElementTree(bf.subset(root, ids)).write(tmp, encoding="UTF-8", xml_declaration=True)
+            os.replace(tmp, path)
+        if before and ids != before:
+            added_s, removed_s = sorted(ids - before), sorted(before - ids)
+            if added_s:
+                seg_lines[-1] += ", +" + ", ".join(added_s)
+            if removed_s:
+                seg_lines[-1] += ", −" + ", ".join(removed_s)
+    if not args.dry_run and (not stop or args.force):
         tmp = args.feed + ".tmp"
         ET.ElementTree(root).write(tmp, encoding="UTF-8", xml_declaration=True)
         os.replace(tmp, args.feed)
@@ -195,6 +215,7 @@ def main():
     lines.append(f"VK-фид Ранта {now:%d.%m.%Y %H:%M}: {status}")
     lines.append(f"Лотов: {st['offers']} (было {len(cur)}). Новые: {len(added)}, ушли: {len(removed)}, "
                  f"цена изменилась: {len(price_ch)}, фото: {len(img_ch)}, текст: {len(desc_ch)}")
+    lines.append("Тематические фиды: " + "; ".join(seg_lines))
     if added:
         lines.append("Новые: " + ", ".join(f"{k} ({new[k]['title']}, {rub(new[k]['price'])} ₽)" for k in added[:10]))
     if removed:
@@ -215,7 +236,7 @@ def main():
         with open(args.log, "w", encoding="utf-8") as f:
             f.write(head + "\n" + entry + body)
         # В telegram пишем, только если что-то изменилось или есть проблемы
-        if added or removed or price_ch or img_ch or stop or alerts:
+        if added or removed or price_ch or img_ch or stop or alerts or any("было" in x for x in seg_lines):
             print(send_tg(report), file=sys.stderr)
     sys.exit(2 if stop and not args.force else 0)
 
