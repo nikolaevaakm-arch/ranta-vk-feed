@@ -71,6 +71,9 @@ def validate(root):
                 errors.append(f"{oid}: пусто {r}")
         if int(o.findtext(f"{N}price/{N}value") or 0) <= 0:
             errors.append(f"{oid}: цена <= 0")
+        old = o.findtext(N + "oldprice")
+        if old and int(old) <= int(o.findtext(f"{N}price/{N}value") or 0):
+            errors.append(f"{oid}: старая цена не больше текущей")
         if len(o.findtext(N + "description") or "") > bf.DESC_MAX:
             errors.append(f"{oid}: описание длиннее {bf.DESC_MAX}")
         if not (o.findtext(N + "url") or "").startswith("https://lar-dev.ru/"):

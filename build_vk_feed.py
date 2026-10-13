@@ -6,6 +6,8 @@
 Адреса исходных фидов содержат токены, поэтому в коде их нет: env MACRO_FEED_URL и NOVOSTROY_FEED_URL
 или файл ~/.config/ranta-mcp/vk_feed.env (строки KEY=VALUE).
 
+v0.6 от 2026-10-13: старая цена (estate_price, в рассрочку) в <oldprice> и <old_price> для {{product.old_price}};
+  в справке VK для недвижимости тег не указан, oldprice взят из спецификации товаров Яндекса.
 v0.5 от 2026-10-13: тематические фиды SEGMENTS (террасы, патио, двухуровневые); терраса в описании.
 v0.4 от 2026-10-13: цена при 100% оплате или ипотеке (estate_price_action, -15%) с условием в описании;
 UTM с макросами VK; фото из прошлого фида, если в novostroy лота нет.
@@ -233,6 +235,11 @@ def convert(lots, price_mode="action", novostroy=None, prev_images=None):
         p = sub(o, "price")
         sub(p, "value", price)
         sub(p, "currency", "RUB")
+        base = round(float(x["estate_price"]))
+        if mode == "action" and base > price:
+            # {{product.price}} = цена при 100% оплате, {{product.old_price}} = цена в рассрочку
+            sub(o, "oldprice", base)
+            sub(o, "old_price", base)
         sub(o, "url", LANDING.format(id=oid) + "?" + UTM)
         sub(o, "image", img)
 
