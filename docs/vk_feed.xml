@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-10-13T16:59:13+03:00</generation-date>
+  <generation-date>2026-10-13T17:22:00+03:00</generation-date>
   <offer internal-id="6941684">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -18,6 +18,8 @@
       <value>34760500</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>40894705</oldprice>
+    <old_price>40894705</old_price>
     <url>https://lar-dev.ru/kvartiru/6941684/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409271.png?v=1791896735</image>
     <area>
@@ -53,6 +55,8 @@
       <value>18864000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22192941</oldprice>
+    <old_price>22192941</old_price>
     <url>https://lar-dev.ru/kvartiru/6941689/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409264.png?v=1791896731</image>
     <area>
@@ -88,6 +92,8 @@
       <value>37564000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>44192941</oldprice>
+    <old_price>44192941</old_price>
     <url>https://lar-dev.ru/kvartiru/6941691/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409261.png?v=1791896731</image>
     <area>
@@ -123,6 +129,8 @@
       <value>41981500</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>49390000</oldprice>
+    <old_price>49390000</old_price>
     <url>https://lar-dev.ru/kvartiru/6941692/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409270.png?v=1791896734</image>
     <area>
@@ -158,6 +166,8 @@
       <value>18541600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21813647</oldprice>
+    <old_price>21813647</old_price>
     <url>https://lar-dev.ru/kvartiru/6941694/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409268.png?v=1791896734</image>
     <area>
@@ -193,6 +203,8 @@
       <value>18409300</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21658000</oldprice>
+    <old_price>21658000</old_price>
     <url>https://lar-dev.ru/kvartiru/6941695/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5413370.png?v=1791883897</image>
     <area>
@@ -228,6 +240,8 @@
       <value>19487950</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22927000</oldprice>
+    <old_price>22927000</old_price>
     <url>https://lar-dev.ru/kvartiru/6941697/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409263.png?v=1791896731</image>
     <area>
@@ -263,6 +277,8 @@
       <value>39861000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>46895294</oldprice>
+    <old_price>46895294</old_price>
     <url>https://lar-dev.ru/kvartiru/6941698/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409260.png?v=1791896731</image>
     <area>
@@ -298,6 +314,8 @@
       <value>18631800</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21919765</oldprice>
+    <old_price>21919765</old_price>
     <url>https://lar-dev.ru/kvartiru/6941701/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409267.png?v=1791896734</image>
     <area>
@@ -333,6 +351,8 @@
       <value>18498150</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21762529</oldprice>
+    <old_price>21762529</old_price>
     <url>https://lar-dev.ru/kvartiru/6941702/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409265.png?v=1791896731</image>
     <area>
@@ -368,6 +388,8 @@
       <value>18871850</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22202176</oldprice>
+    <old_price>22202176</old_price>
     <url>https://lar-dev.ru/kvartiru/6941703/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409266.png?v=1791896732</image>
     <area>
@@ -403,6 +425,8 @@
       <value>19652400</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>23120470</oldprice>
+    <old_price>23120470</old_price>
     <url>https://lar-dev.ru/kvartiru/6941704/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409262.png?v=1791896731</image>
     <area>
@@ -438,6 +462,8 @@
       <value>44046000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>51818824</oldprice>
+    <old_price>51818824</old_price>
     <url>https://lar-dev.ru/kvartiru/6941706/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409269.png?v=1791896734</image>
     <area>
@@ -473,6 +499,8 @@
       <value>18907200</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22243765</oldprice>
+    <old_price>22243765</old_price>
     <url>https://lar-dev.ru/kvartiru/6941708/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409259.png?v=1791896731</image>
     <area>
@@ -508,6 +536,8 @@
       <value>18866800</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22196235</oldprice>
+    <old_price>22196235</old_price>
     <url>https://lar-dev.ru/kvartiru/6941709/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409257.png?v=1791896731</image>
     <area>
@@ -543,6 +573,8 @@
       <value>19053600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22416000</oldprice>
+    <old_price>22416000</old_price>
     <url>https://lar-dev.ru/kvartiru/6941710/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409258.png?v=1791896731</image>
     <area>
@@ -578,6 +610,8 @@
       <value>39971250</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>47025000</oldprice>
+    <old_price>47025000</old_price>
     <url>https://lar-dev.ru/kvartiru/6975999/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409244.png?v=1791896727</image>
     <area>
@@ -613,6 +647,8 @@
       <value>34011450</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>40013470</oldprice>
+    <old_price>40013470</old_price>
     <url>https://lar-dev.ru/kvartiru/6976002/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409243.png?v=1791896726</image>
     <area>
@@ -648,6 +684,8 @@
       <value>20735550</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24394764</oldprice>
+    <old_price>24394764</old_price>
     <url>https://lar-dev.ru/kvartiru/6976003/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409242.png?v=1791896723</image>
     <area>
@@ -683,6 +721,8 @@
       <value>39691560</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>46695953</oldprice>
+    <old_price>46695953</old_price>
     <url>https://lar-dev.ru/kvartiru/6976004/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409358.png?v=1791883894</image>
     <area>
@@ -718,6 +758,8 @@
       <value>20821150</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24495470</oldprice>
+    <old_price>24495470</old_price>
     <url>https://lar-dev.ru/kvartiru/6976008/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409241.png?v=1791896723</image>
     <area>
@@ -753,6 +795,8 @@
       <value>41852250</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>49237941</oldprice>
+    <old_price>49237941</old_price>
     <url>https://lar-dev.ru/kvartiru/6976018/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409238.png?v=1791896723</image>
     <area>
@@ -788,6 +832,8 @@
       <value>29497579</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>34703035</oldprice>
+    <old_price>34703035</old_price>
     <url>https://lar-dev.ru/kvartiru/6976020/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409239.png?v=1791896723</image>
     <area>
@@ -823,6 +869,8 @@
       <value>36697050</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>43173000</oldprice>
+    <old_price>43173000</old_price>
     <url>https://lar-dev.ru/kvartiru/6976023/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409237.png?v=1791896723</image>
     <area>
@@ -858,6 +906,8 @@
       <value>20821150</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24495470</oldprice>
+    <old_price>24495470</old_price>
     <url>https://lar-dev.ru/kvartiru/6976024/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409240.png?v=1791896723</image>
     <area>
@@ -893,6 +943,8 @@
       <value>40593280</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>47756800</oldprice>
+    <old_price>47756800</old_price>
     <url>https://lar-dev.ru/kvartiru/6976028/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409236.png?v=1791896723</image>
     <area>
@@ -928,6 +980,8 @@
       <value>30918600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36374824</oldprice>
+    <old_price>36374824</old_price>
     <url>https://lar-dev.ru/kvartiru/6976914/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409355.png?v=1791883894</image>
     <area>
@@ -963,6 +1017,8 @@
       <value>29944049</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35228294</oldprice>
+    <old_price>35228294</old_price>
     <url>https://lar-dev.ru/kvartiru/6976915/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409352.png?v=1791883894</image>
     <area>
@@ -998,6 +1054,8 @@
       <value>15836900</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>18631647</oldprice>
+    <old_price>18631647</old_price>
     <url>https://lar-dev.ru/kvartiru/6976917/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409234.png?v=1791896723</image>
     <area>
@@ -1033,6 +1091,8 @@
       <value>30518099</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35903647</oldprice>
+    <old_price>35903647</old_price>
     <url>https://lar-dev.ru/kvartiru/6976918/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409353.png?v=1791883894</image>
     <area>
@@ -1068,6 +1128,8 @@
       <value>32820098</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>38611882</oldprice>
+    <old_price>38611882</old_price>
     <url>https://lar-dev.ru/kvartiru/6976919/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409233.png?v=1791896723</image>
     <area>
@@ -1103,6 +1165,8 @@
       <value>30780749</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36212647</oldprice>
+    <old_price>36212647</old_price>
     <url>https://lar-dev.ru/kvartiru/6976920/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409354.png?v=1791883894</image>
     <area>
@@ -1138,6 +1202,8 @@
       <value>16882800</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>19862117</oldprice>
+    <old_price>19862117</old_price>
     <url>https://lar-dev.ru/kvartiru/6976921/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409232.png?v=1791896723</image>
     <area>
@@ -1173,6 +1239,8 @@
       <value>15848250</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>18645000</oldprice>
+    <old_price>18645000</old_price>
     <url>https://lar-dev.ru/kvartiru/6976922/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409231.png?v=1791896723</image>
     <area>
@@ -1208,6 +1276,8 @@
       <value>34573567</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>40674785</oldprice>
+    <old_price>40674785</old_price>
     <url>https://lar-dev.ru/kvartiru/6976924/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409230.png?v=1791896719</image>
     <area>
@@ -1243,6 +1313,8 @@
       <value>41703900</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>49063411</oldprice>
+    <old_price>49063411</old_price>
     <url>https://lar-dev.ru/kvartiru/6976932/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409235.png?v=1791896723</image>
     <area>
@@ -1278,6 +1350,8 @@
       <value>30406846</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35772762</oldprice>
+    <old_price>35772762</old_price>
     <url>https://lar-dev.ru/kvartiru/6976937/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409348.png?v=1791883891</image>
     <area>
@@ -1313,6 +1387,8 @@
       <value>20469300</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24081529</oldprice>
+    <old_price>24081529</old_price>
     <url>https://lar-dev.ru/kvartiru/6976938/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409349.png?v=1791883891</image>
     <area>
@@ -1348,6 +1424,8 @@
       <value>28346500</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>33348824</oldprice>
+    <old_price>33348824</old_price>
     <url>https://lar-dev.ru/kvartiru/6976939/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409350.png?v=1791883891</image>
     <area>
@@ -1383,6 +1461,8 @@
       <value>18950800</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22295058</oldprice>
+    <old_price>22295058</old_price>
     <url>https://lar-dev.ru/kvartiru/6976940/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409229.png?v=1791896719</image>
     <area>
@@ -1418,6 +1498,8 @@
       <value>31367698</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36903176</oldprice>
+    <old_price>36903176</old_price>
     <url>https://lar-dev.ru/kvartiru/6976941/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409228.png?v=1791896719</image>
     <area>
@@ -1453,6 +1535,8 @@
       <value>21046600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24760706</oldprice>
+    <old_price>24760706</old_price>
     <url>https://lar-dev.ru/kvartiru/6976942/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409227.png?v=1791896719</image>
     <area>
@@ -1488,6 +1572,8 @@
       <value>27300600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>32118352</oldprice>
+    <old_price>32118352</old_price>
     <url>https://lar-dev.ru/kvartiru/6976943/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409226.png?v=1791896719</image>
     <area>
@@ -1523,6 +1609,8 @@
       <value>20014600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>23546588</oldprice>
+    <old_price>23546588</old_price>
     <url>https://lar-dev.ru/kvartiru/6976944/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409225.png?v=1791896719</image>
     <area>
@@ -1558,6 +1646,8 @@
       <value>22593600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>26580706</oldprice>
+    <old_price>26580706</old_price>
     <url>https://lar-dev.ru/kvartiru/6976945/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409347.png?v=1791883890</image>
     <area>
@@ -1593,6 +1683,8 @@
       <value>28097299</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>33055647</oldprice>
+    <old_price>33055647</old_price>
     <url>https://lar-dev.ru/kvartiru/6976956/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409342.png?v=1791883890</image>
     <area>
@@ -1628,6 +1720,8 @@
       <value>18495000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21758823</oldprice>
+    <old_price>21758823</old_price>
     <url>https://lar-dev.ru/kvartiru/6976957/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409224.png?v=1791896719</image>
     <area>
@@ -1663,6 +1757,8 @@
       <value>17456100</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>20536588</oldprice>
+    <old_price>20536588</old_price>
     <url>https://lar-dev.ru/kvartiru/6976958/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409343.png?v=1791883890</image>
     <area>
@@ -1698,6 +1794,8 @@
       <value>18632550</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21920647</oldprice>
+    <old_price>21920647</old_price>
     <url>https://lar-dev.ru/kvartiru/6976959/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409344.png?v=1791883890</image>
     <area>
@@ -1733,6 +1831,8 @@
       <value>17790900</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>20930471</oldprice>
+    <old_price>20930471</old_price>
     <url>https://lar-dev.ru/kvartiru/6976960/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409223.png?v=1791896719</image>
     <area>
@@ -1768,6 +1868,8 @@
       <value>21865500</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>25724117</oldprice>
+    <old_price>25724117</old_price>
     <url>https://lar-dev.ru/kvartiru/6976961/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409222.png?v=1791896719</image>
     <area>
@@ -1803,6 +1905,8 @@
       <value>25478750</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>29975000</oldprice>
+    <old_price>29975000</old_price>
     <url>https://lar-dev.ru/kvartiru/6976962/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409221.png?v=1791896719</image>
     <area>
@@ -1838,6 +1942,8 @@
       <value>29471699</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>34672588</oldprice>
+    <old_price>34672588</old_price>
     <url>https://lar-dev.ru/kvartiru/6976963/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409345.png?v=1791883890</image>
     <area>
@@ -1873,6 +1979,8 @@
       <value>19589000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>23045882</oldprice>
+    <old_price>23045882</old_price>
     <url>https://lar-dev.ru/kvartiru/6976964/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409346.png?v=1791883890</image>
     <area>
@@ -1908,6 +2016,8 @@
       <value>18565600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21841882</oldprice>
+    <old_price>21841882</old_price>
     <url>https://lar-dev.ru/kvartiru/6976965/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409220.png?v=1791896719</image>
     <area>
@@ -1943,6 +2053,8 @@
       <value>17817700</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>20962000</oldprice>
+    <old_price>20962000</old_price>
     <url>https://lar-dev.ru/kvartiru/6976966/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409219.png?v=1791896719</image>
     <area>
@@ -1978,6 +2090,8 @@
       <value>18648500</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21939411</oldprice>
+    <old_price>21939411</old_price>
     <url>https://lar-dev.ru/kvartiru/6976967/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409218.png?v=1791896715</image>
     <area>
@@ -2013,6 +2127,8 @@
       <value>17578000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>20680000</oldprice>
+    <old_price>20680000</old_price>
     <url>https://lar-dev.ru/kvartiru/6976968/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409217.png?v=1791896715</image>
     <area>
@@ -2048,6 +2164,8 @@
       <value>22526200</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>26501411</oldprice>
+    <old_price>26501411</old_price>
     <url>https://lar-dev.ru/kvartiru/6976969/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409216.png?v=1791896715</image>
     <area>
@@ -2083,6 +2201,8 @@
       <value>25954800</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>30535058</oldprice>
+    <old_price>30535058</old_price>
     <url>https://lar-dev.ru/kvartiru/6976970/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409215.png?v=1791896715</image>
     <area>
@@ -2118,6 +2238,8 @@
       <value>18618600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21904235</oldprice>
+    <old_price>21904235</old_price>
     <url>https://lar-dev.ru/kvartiru/6976973/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409214.png?v=1791896715</image>
     <area>
@@ -2153,6 +2275,8 @@
       <value>18729600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22034823</oldprice>
+    <old_price>22034823</old_price>
     <url>https://lar-dev.ru/kvartiru/6976975/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409207.png?v=1791896715</image>
     <area>
@@ -2188,6 +2312,8 @@
       <value>18197250</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21408529</oldprice>
+    <old_price>21408529</old_price>
     <url>https://lar-dev.ru/kvartiru/6976976/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409213.png?v=1791896715</image>
     <area>
@@ -2223,6 +2349,8 @@
       <value>22115400</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>26018117</oldprice>
+    <old_price>26018117</old_price>
     <url>https://lar-dev.ru/kvartiru/6976977/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409211.png?v=1791896715</image>
     <area>
@@ -2258,6 +2386,8 @@
       <value>27960449</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>32894647</oldprice>
+    <old_price>32894647</old_price>
     <url>https://lar-dev.ru/kvartiru/6976978/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409212.png?v=1791896715</image>
     <area>
@@ -2293,6 +2423,8 @@
       <value>20656150</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24301353</oldprice>
+    <old_price>24301353</old_price>
     <url>https://lar-dev.ru/kvartiru/6976980/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409340.png?v=1791883890</image>
     <area>
@@ -2328,6 +2460,8 @@
       <value>19298200</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22703764</oldprice>
+    <old_price>22703764</old_price>
     <url>https://lar-dev.ru/kvartiru/6976981/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409210.png?v=1791896715</image>
     <area>
@@ -2363,6 +2497,8 @@
       <value>17438400</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>20515764</oldprice>
+    <old_price>20515764</old_price>
     <url>https://lar-dev.ru/kvartiru/6976982/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409209.png?v=1791896715</image>
     <area>
@@ -2398,6 +2534,8 @@
       <value>17974101</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21146001</oldprice>
+    <old_price>21146001</old_price>
     <url>https://lar-dev.ru/kvartiru/6976984/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409341.png?v=1791883890</image>
     <area>
@@ -2433,6 +2571,8 @@
       <value>27687748</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>32573823</oldprice>
+    <old_price>32573823</old_price>
     <url>https://lar-dev.ru/kvartiru/6976986/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409208.png?v=1791896715</image>
     <area>
@@ -2468,6 +2608,8 @@
       <value>20409600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24011294</oldprice>
+    <old_price>24011294</old_price>
     <url>https://lar-dev.ru/kvartiru/7013269/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409251.png?v=1791896727</image>
     <area>
@@ -2503,6 +2645,8 @@
       <value>30779100</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36210706</oldprice>
+    <old_price>36210706</old_price>
     <url>https://lar-dev.ru/kvartiru/7013271/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409250.png?v=1791896727</image>
     <area>
@@ -2538,6 +2682,8 @@
       <value>28749900</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>33823411</oldprice>
+    <old_price>33823411</old_price>
     <url>https://lar-dev.ru/kvartiru/7013273/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409249.png?v=1791896727</image>
     <area>
@@ -2573,6 +2719,8 @@
       <value>19666350</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>23136882</oldprice>
+    <old_price>23136882</old_price>
     <url>https://lar-dev.ru/kvartiru/7013280/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409248.png?v=1791896727</image>
     <area>
@@ -2608,6 +2756,8 @@
       <value>20483100</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24097765</oldprice>
+    <old_price>24097765</old_price>
     <url>https://lar-dev.ru/kvartiru/7013281/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409247.png?v=1791896727</image>
     <area>
@@ -2643,6 +2793,8 @@
       <value>19195000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22582352</oldprice>
+    <old_price>22582352</old_price>
     <url>https://lar-dev.ru/kvartiru/7013282/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409246.png?v=1791896727</image>
     <area>
@@ -2678,6 +2830,8 @@
       <value>32190338</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>37870988</oldprice>
+    <old_price>37870988</old_price>
     <url>https://lar-dev.ru/kvartiru/7013283/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409245.png?v=1791896727</image>
     <area>
@@ -2713,6 +2867,8 @@
       <value>28444050</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>33463588</oldprice>
+    <old_price>33463588</old_price>
     <url>https://lar-dev.ru/kvartiru/7013292/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409256.png?v=1791896731</image>
     <area>
@@ -2748,6 +2904,8 @@
       <value>29760473</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35012321</oldprice>
+    <old_price>35012321</old_price>
     <url>https://lar-dev.ru/kvartiru/7013293/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409362.png?v=1791883895</image>
     <area>
@@ -2783,6 +2941,8 @@
       <value>30976202</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36442591</oldprice>
+    <old_price>36442591</old_price>
     <url>https://lar-dev.ru/kvartiru/7013294/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409363.png?v=1791883895</image>
     <area>
@@ -2818,6 +2978,8 @@
       <value>20409600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24011294</oldprice>
+    <old_price>24011294</old_price>
     <url>https://lar-dev.ru/kvartiru/7013296/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409255.png?v=1791896730</image>
     <area>
@@ -2853,6 +3015,8 @@
       <value>29251057</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>34413009</oldprice>
+    <old_price>34413009</old_price>
     <url>https://lar-dev.ru/kvartiru/7013297/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409359.png?v=1791883894</image>
     <area>
@@ -2888,6 +3052,8 @@
       <value>29353307</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>34533303</oldprice>
+    <old_price>34533303</old_price>
     <url>https://lar-dev.ru/kvartiru/7013298/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409360.png?v=1791883894</image>
     <area>
@@ -2923,6 +3089,8 @@
       <value>29729542</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>34975932</oldprice>
+    <old_price>34975932</old_price>
     <url>https://lar-dev.ru/kvartiru/7013299/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409361.png?v=1791883895</image>
     <area>
@@ -2958,6 +3126,8 @@
       <value>19151550</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22531235</oldprice>
+    <old_price>22531235</old_price>
     <url>https://lar-dev.ru/kvartiru/7013301/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409254.png?v=1791896728</image>
     <area>
@@ -2993,6 +3163,8 @@
       <value>20276200</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>23854352</oldprice>
+    <old_price>23854352</old_price>
     <url>https://lar-dev.ru/kvartiru/7013302/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409253.png?v=1791896727</image>
     <area>
@@ -3028,6 +3200,8 @@
       <value>19458450</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22892294</oldprice>
+    <old_price>22892294</old_price>
     <url>https://lar-dev.ru/kvartiru/7013303/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409252.png?v=1791896727</image>
     <area>
@@ -3063,6 +3237,8 @@
       <value>31107900</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36597529</oldprice>
+    <old_price>36597529</old_price>
     <url>https://lar-dev.ru/kvartiru/7404917/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409357.png?v=1791883893</image>
     <area>
@@ -3098,6 +3274,8 @@
       <value>26083300</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>30686235</oldprice>
+    <old_price>30686235</old_price>
     <url>https://lar-dev.ru/kvartiru/7404918/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409356.png?v=1791883893</image>
     <area>
@@ -3133,6 +3311,8 @@
       <value>31568650</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>37139588</oldprice>
+    <old_price>37139588</old_price>
     <url>https://lar-dev.ru/kvartiru/7404919/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409351.png?v=1791883890</image>
     <area>
@@ -3168,6 +3348,8 @@
       <value>30676250</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36089706</oldprice>
+    <old_price>36089706</old_price>
     <url>https://lar-dev.ru/kvartiru/7404920/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409339.png?v=1791883887</image>
     <area>
@@ -3203,6 +3385,8 @@
       <value>20808060</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24480071</oldprice>
+    <old_price>24480071</old_price>
     <url>https://lar-dev.ru/kvartiru/7404922/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409338.png?v=1791883887</image>
     <area>
@@ -3238,6 +3422,8 @@
       <value>32490000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>38223529</oldprice>
+    <old_price>38223529</old_price>
     <url>https://lar-dev.ru/kvartiru/7404924/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409307.png?v=1791896743</image>
     <area>
@@ -3273,6 +3459,8 @@
       <value>30629900</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36035176</oldprice>
+    <old_price>36035176</old_price>
     <url>https://lar-dev.ru/kvartiru/7404925/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409337.png?v=1791883887</image>
     <area>
@@ -3308,6 +3496,8 @@
       <value>25627400</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>30149882</oldprice>
+    <old_price>30149882</old_price>
     <url>https://lar-dev.ru/kvartiru/7404926/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409336.png?v=1791883887</image>
     <area>
@@ -3343,6 +3533,8 @@
       <value>31010900</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36483412</oldprice>
+    <old_price>36483412</old_price>
     <url>https://lar-dev.ru/kvartiru/7404929/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409335.png?v=1791883887</image>
     <area>
@@ -3378,6 +3570,8 @@
       <value>18968720</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22316141</oldprice>
+    <old_price>22316141</old_price>
     <url>https://lar-dev.ru/kvartiru/7404930/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409334.png?v=1791883887</image>
     <area>
@@ -3413,6 +3607,8 @@
       <value>31560000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>37129412</oldprice>
+    <old_price>37129412</old_price>
     <url>https://lar-dev.ru/kvartiru/7404932/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409333.png?v=1791883887</image>
     <area>
@@ -3448,6 +3644,8 @@
       <value>31605750</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>37183235</oldprice>
+    <old_price>37183235</old_price>
     <url>https://lar-dev.ru/kvartiru/7404936/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409332.png?v=1791883887</image>
     <area>
@@ -3483,6 +3681,8 @@
       <value>30798900</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36234000</oldprice>
+    <old_price>36234000</old_price>
     <url>https://lar-dev.ru/kvartiru/7404937/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409331.png?v=1791883887</image>
     <area>
@@ -3518,6 +3718,8 @@
       <value>27228300</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>32033294</oldprice>
+    <old_price>32033294</old_price>
     <url>https://lar-dev.ru/kvartiru/7404940/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409330.png?v=1791883886</image>
     <area>
@@ -3553,6 +3755,8 @@
       <value>31840000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>37458824</oldprice>
+    <old_price>37458824</old_price>
     <url>https://lar-dev.ru/kvartiru/7404945/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409329.png?v=1791883887</image>
     <area>
@@ -3588,6 +3792,8 @@
       <value>31110000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36600000</oldprice>
+    <old_price>36600000</old_price>
     <url>https://lar-dev.ru/kvartiru/7404946/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409328.png?v=1791883886</image>
     <area>
@@ -3623,6 +3829,8 @@
       <value>31407750</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36950294</oldprice>
+    <old_price>36950294</old_price>
     <url>https://lar-dev.ru/kvartiru/7404947/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409309.png?v=1791896744</image>
     <area>
@@ -3658,6 +3866,8 @@
       <value>18886280</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>22219153</oldprice>
+    <old_price>22219153</old_price>
     <url>https://lar-dev.ru/kvartiru/7404948/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409308.png?v=1791896744</image>
     <area>
@@ -3693,6 +3903,8 @@
       <value>20363220</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>23956729</oldprice>
+    <old_price>23956729</old_price>
     <url>https://lar-dev.ru/kvartiru/7407010/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409302.png?v=1791896741</image>
     <area>
@@ -3728,6 +3940,8 @@
       <value>30535600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35924235</oldprice>
+    <old_price>35924235</old_price>
     <url>https://lar-dev.ru/kvartiru/7407011/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409303.png?v=1791896743</image>
     <area>
@@ -3763,6 +3977,8 @@
       <value>31107900</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36597529</oldprice>
+    <old_price>36597529</old_price>
     <url>https://lar-dev.ru/kvartiru/7407013/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409304.png?v=1791896743</image>
     <area>
@@ -3798,6 +4014,8 @@
       <value>26083300</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>30686235</oldprice>
+    <old_price>30686235</old_price>
     <url>https://lar-dev.ru/kvartiru/7407014/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409305.png?v=1791896743</image>
     <area>
@@ -3833,6 +4051,8 @@
       <value>31568650</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>37139588</oldprice>
+    <old_price>37139588</old_price>
     <url>https://lar-dev.ru/kvartiru/7407015/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409306.png?v=1791896743</image>
     <area>
@@ -3868,6 +4088,8 @@
       <value>30043750</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35345588</oldprice>
+    <old_price>35345588</old_price>
     <url>https://lar-dev.ru/kvartiru/7407016/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409289.png?v=1791896738</image>
     <area>
@@ -3903,6 +4125,8 @@
       <value>30841750</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36284412</oldprice>
+    <old_price>36284412</old_price>
     <url>https://lar-dev.ru/kvartiru/7407017/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409290.png?v=1791896738</image>
     <area>
@@ -3938,6 +4162,8 @@
       <value>20205510</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>23771188</oldprice>
+    <old_price>23771188</old_price>
     <url>https://lar-dev.ru/kvartiru/7407018/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409291.png?v=1791896740</image>
     <area>
@@ -3973,6 +4199,8 @@
       <value>30792650</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36226647</oldprice>
+    <old_price>36226647</old_price>
     <url>https://lar-dev.ru/kvartiru/7407019/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409292.png?v=1791896740</image>
     <area>
@@ -4008,6 +4236,8 @@
       <value>32165100</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>37841294</oldprice>
+    <old_price>37841294</old_price>
     <url>https://lar-dev.ru/kvartiru/7407020/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409293.png?v=1791896740</image>
     <area>
@@ -4043,6 +4273,8 @@
       <value>30004800</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35299765</oldprice>
+    <old_price>35299765</old_price>
     <url>https://lar-dev.ru/kvartiru/7407021/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409294.png?v=1791896741</image>
     <area>
@@ -4078,6 +4310,8 @@
       <value>25627400</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>30149882</oldprice>
+    <old_price>30149882</old_price>
     <url>https://lar-dev.ru/kvartiru/7407022/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409295.png?v=1791896740</image>
     <area>
@@ -4113,6 +4347,8 @@
       <value>31093350</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36580412</oldprice>
+    <old_price>36580412</old_price>
     <url>https://lar-dev.ru/kvartiru/7407023/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409296.png?v=1791896740</image>
     <area>
@@ -4148,6 +4384,8 @@
       <value>30043200</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35344941</oldprice>
+    <old_price>35344941</old_price>
     <url>https://lar-dev.ru/kvartiru/7407024/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409297.png?v=1791896741</image>
     <area>
@@ -4183,6 +4421,8 @@
       <value>30691200</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36107294</oldprice>
+    <old_price>36107294</old_price>
     <url>https://lar-dev.ru/kvartiru/7407025/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409298.png?v=1791896741</image>
     <area>
@@ -4218,6 +4458,8 @@
       <value>20253960</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>23828188</oldprice>
+    <old_price>23828188</old_price>
     <url>https://lar-dev.ru/kvartiru/7407027/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409299.png?v=1791896741</image>
     <area>
@@ -4253,6 +4495,8 @@
       <value>30928800</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36386824</oldprice>
+    <old_price>36386824</old_price>
     <url>https://lar-dev.ru/kvartiru/7407028/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409300.png?v=1791896741</image>
     <area>
@@ -4288,6 +4532,8 @@
       <value>32290000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>37988235</oldprice>
+    <old_price>37988235</old_price>
     <url>https://lar-dev.ru/kvartiru/7407029/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409301.png?v=1791896741</image>
     <area>
@@ -4323,6 +4569,8 @@
       <value>30137900</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35456353</oldprice>
+    <old_price>35456353</old_price>
     <url>https://lar-dev.ru/kvartiru/7407030/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409275.png?v=1791896734</image>
     <area>
@@ -4358,6 +4606,8 @@
       <value>25715200</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>30253176</oldprice>
+    <old_price>30253176</old_price>
     <url>https://lar-dev.ru/kvartiru/7407031/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409276.png?v=1791896734</image>
     <area>
@@ -4393,6 +4643,8 @@
       <value>31286500</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36807647</oldprice>
+    <old_price>36807647</old_price>
     <url>https://lar-dev.ru/kvartiru/7407032/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409277.png?v=1791896734</image>
     <area>
@@ -4428,6 +4680,8 @@
       <value>30176700</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35502000</oldprice>
+    <old_price>35502000</old_price>
     <url>https://lar-dev.ru/kvartiru/7407033/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409278.png?v=1791896735</image>
     <area>
@@ -4463,6 +4717,8 @@
       <value>30909050</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36363588</oldprice>
+    <old_price>36363588</old_price>
     <url>https://lar-dev.ru/kvartiru/7407034/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409279.png?v=1791896737</image>
     <area>
@@ -4498,6 +4754,8 @@
       <value>18221820</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21437435</oldprice>
+    <old_price>21437435</old_price>
     <url>https://lar-dev.ru/kvartiru/7407035/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409280.png?v=1791896737</image>
     <area>
@@ -4533,6 +4791,8 @@
       <value>26492400</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>31167529</oldprice>
+    <old_price>31167529</old_price>
     <url>https://lar-dev.ru/kvartiru/7407036/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409281.png?v=1791896737</image>
     <area>
@@ -4568,6 +4828,8 @@
       <value>39412950</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>46368176</oldprice>
+    <old_price>46368176</old_price>
     <url>https://lar-dev.ru/kvartiru/7407037/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409274.png?v=1791896734</image>
     <area>
@@ -4603,6 +4865,8 @@
       <value>39871900</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>46908118</oldprice>
+    <old_price>46908118</old_price>
     <url>https://lar-dev.ru/kvartiru/7407038/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409282.png?v=1791896737</image>
     <area>
@@ -4638,6 +4902,8 @@
       <value>40830400</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>48035765</oldprice>
+    <old_price>48035765</old_price>
     <url>https://lar-dev.ru/kvartiru/7407039/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409283.png?v=1791896737</image>
     <area>
@@ -4673,6 +4939,8 @@
       <value>25977600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>30561882</oldprice>
+    <old_price>30561882</old_price>
     <url>https://lar-dev.ru/kvartiru/7407040/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409284.png?v=1791896737</image>
     <area>
@@ -4708,6 +4976,8 @@
       <value>31521600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>37084235</oldprice>
+    <old_price>37084235</old_price>
     <url>https://lar-dev.ru/kvartiru/7407041/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409285.png?v=1791896738</image>
     <area>
@@ -4743,6 +5013,8 @@
       <value>30487800</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35868000</oldprice>
+    <old_price>35868000</old_price>
     <url>https://lar-dev.ru/kvartiru/7407042/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409286.png?v=1791896738</image>
     <area>
@@ -4778,6 +5050,8 @@
       <value>31090500</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36577059</oldprice>
+    <old_price>36577059</old_price>
     <url>https://lar-dev.ru/kvartiru/7407043/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409287.png?v=1791896738</image>
     <area>
@@ -4813,6 +5087,8 @@
       <value>18339380</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>21575741</oldprice>
+    <old_price>21575741</old_price>
     <url>https://lar-dev.ru/kvartiru/7407044/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409288.png?v=1791896738</image>
     <area>
@@ -4848,6 +5124,8 @@
       <value>33676800</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>39619765</oldprice>
+    <old_price>39619765</old_price>
     <url>https://lar-dev.ru/kvartiru/7473282/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409325.png?v=1791896747</image>
     <area>
@@ -4883,6 +5161,8 @@
       <value>29481600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>34684235</oldprice>
+    <old_price>34684235</old_price>
     <url>https://lar-dev.ru/kvartiru/7473283/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409326.png?v=1791896747</image>
     <area>
@@ -4918,6 +5198,8 @@
       <value>30835700</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36277294</oldprice>
+    <old_price>36277294</old_price>
     <url>https://lar-dev.ru/kvartiru/7473285/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409327.png?v=1791896748</image>
     <area>
@@ -4953,6 +5235,8 @@
       <value>28777700</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>33856118</oldprice>
+    <old_price>33856118</old_price>
     <url>https://lar-dev.ru/kvartiru/7473290/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409318.png?v=1791896746</image>
     <area>
@@ -4988,6 +5272,8 @@
       <value>22970000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>27023529</oldprice>
+    <old_price>27023529</old_price>
     <url>https://lar-dev.ru/kvartiru/7473291/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409272.png?v=1791896734</image>
     <area>
@@ -5023,6 +5309,8 @@
       <value>32800550</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>38588882</oldprice>
+    <old_price>38588882</old_price>
     <url>https://lar-dev.ru/kvartiru/7473293/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409319.png?v=1791896746</image>
     <area>
@@ -5058,6 +5346,8 @@
       <value>30840600</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36283059</oldprice>
+    <old_price>36283059</old_price>
     <url>https://lar-dev.ru/kvartiru/7473294/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409320.png?v=1791896746</image>
     <area>
@@ -5093,6 +5383,8 @@
       <value>20427660</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24032541</oldprice>
+    <old_price>24032541</old_price>
     <url>https://lar-dev.ru/kvartiru/7473295/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409321.png?v=1791896747</image>
     <area>
@@ -5128,6 +5420,8 @@
       <value>30199950</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35529353</oldprice>
+    <old_price>35529353</old_price>
     <url>https://lar-dev.ru/kvartiru/7473296/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409322.png?v=1791896747</image>
     <area>
@@ -5163,6 +5457,8 @@
       <value>26640000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>31341176</oldprice>
+    <old_price>31341176</old_price>
     <url>https://lar-dev.ru/kvartiru/7473297/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409323.png?v=1791896747</image>
     <area>
@@ -5198,6 +5494,8 @@
       <value>30579250</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>35975588</oldprice>
+    <old_price>35975588</old_price>
     <url>https://lar-dev.ru/kvartiru/7473298/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409324.png?v=1791896747</image>
     <area>
@@ -5233,6 +5531,8 @@
       <value>29160000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>34305882</oldprice>
+    <old_price>34305882</old_price>
     <url>https://lar-dev.ru/kvartiru/7473308/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409312.png?v=1791896744</image>
     <area>
@@ -5268,6 +5568,8 @@
       <value>23291700</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>27402000</oldprice>
+    <old_price>27402000</old_price>
     <url>https://lar-dev.ru/kvartiru/7473309/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409273.png?v=1791896734</image>
     <area>
@@ -5303,6 +5605,8 @@
       <value>29380400</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>34565176</oldprice>
+    <old_price>34565176</old_price>
     <url>https://lar-dev.ru/kvartiru/7473310/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409313.png?v=1791896744</image>
     <area>
@@ -5338,6 +5642,8 @@
       <value>33239250</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>39105000</oldprice>
+    <old_price>39105000</old_price>
     <url>https://lar-dev.ru/kvartiru/7473311/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409314.png?v=1791896744</image>
     <area>
@@ -5373,6 +5679,8 @@
       <value>31270000</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>36788235</oldprice>
+    <old_price>36788235</old_price>
     <url>https://lar-dev.ru/kvartiru/7473312/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409315.png?v=1791896745</image>
     <area>
@@ -5408,6 +5716,8 @@
       <value>20632350</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>24273353</oldprice>
+    <old_price>24273353</old_price>
     <url>https://lar-dev.ru/kvartiru/7473313/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409316.png?v=1791896746</image>
     <area>
@@ -5443,6 +5753,8 @@
       <value>41280750</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>48565588</oldprice>
+    <old_price>48565588</old_price>
     <url>https://lar-dev.ru/kvartiru/7473314/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409317.png?v=1791896747</image>
     <area>
@@ -5478,6 +5790,8 @@
       <value>40710750</value>
       <currency>RUB</currency>
     </price>
+    <oldprice>47895000</oldprice>
+    <old_price>47895000</old_price>
     <url>https://lar-dev.ru/kvartiru/7473316/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
     <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409311.png?v=1791896744</image>
     <area>
