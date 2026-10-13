@@ -170,7 +170,8 @@ def main():
     both = set(new) & set(cur)
     price_ch = sorted((k for k in both if new[k]["price"] != cur[k]["price"]),
                       key=lambda k: abs(new[k]["price"] - cur[k]["price"]), reverse=True)
-    img_ch = [k for k in both if new[k]["image"] != cur[k]["image"]]
+    # novostroy перегенерирует карточки и меняет ?v=... в ссылке; изменением фото считаем смену файла
+    img_ch = [k for k in both if new[k]["image"].split("?")[0] != cur[k]["image"].split("?")[0]]
     desc_ch = [k for k in both if new[k]["desc"] != cur[k]["desc"] or new[k]["title"] != cur[k]["title"]]
 
     # Предохранители
