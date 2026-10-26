@@ -3,7 +3,13 @@ name: VK feed sync
 on:
   schedule:
     - cron: "0 4 * * *"   # 07:00 МСК ежедневно
-  workflow_dispatch:       # ручной запуск: Actions → VK feed sync → Run workflow
+  workflow_dispatch:       # ручной запуск: Actions → VK feed sync → Run workflow, или кнопки Телеграм-бота
+    inputs:
+      mode:
+        description: "update: обновить фид; check: только проверить, без публикации"
+        default: update
+        type: choice
+        options: [update, check]
 
 permissions:
   contents: write
@@ -22,14 +28,34 @@ jobs:
       NOVOSTROY_FEED_URL: ${{ secrets.NOVOSTROY_FEED_URL }}
       TG_TOKEN: ${{ secrets.TG_TOKEN }}
       TG_CHAT: ${{ secrets.TG_CHAT }}
+      MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'scheduled' }}
     steps:
       - uses: actions/checkout@v4
 
-      - name: Sync feed
+      - name: Check feed (no publish)
+        if: env.MODE == 'check'
         run: |
           set +e
-          python3 vk_feed_sync.py --feed docs/vk_feed.xml --log sync_log.md
+          python3 vk_feed_sync.py --dry-run --feed docs/vk_feed.xml --log /tmp/log.md > /tmp/out.txt 2>&1
           code=$?
+          printf '\n\nЭто проверка: опубликованный фид не менялся.' >> /tmp/out.txt
+          curl -s -o /dev/null "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TG_CHAT}" --data-urlencode "text@/tmp/out.txt"
+          exit $code
+
+      - name: Sync feed
+        if: env.MODE != 'check'
+        run: |
+          set +e
+          python3 vk_feed_sync.py --feed docs/vk_feed.xml --log sync_log.md > /tmp/out.txt 2> /tmp/err.txt
+          code=$?
+          cat /tmp/out.txt /tmp/err.txt
+          # Ручной запуск из бота: итог шлем всегда (сам агент пишет в Телеграм только при изменениях)
+          if [ "$MODE" = "update" ] && ! grep -q "отправлено в telegram" /tmp/err.txt; then
+            cat /tmp/err.txt >> /tmp/out.txt
+            curl -s -o /dev/null "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" \
+              --data-urlencode "chat_id=${TG_CHAT}" --data-urlencode "text@/tmp/out.txt"
+          fi
           # Журнал коммитим всегда: так видна история и репозиторий не засыпает (GitHub
           # отключает расписание после 60 дней без коммитов)
           git config user.name "vk-feed-bot"
