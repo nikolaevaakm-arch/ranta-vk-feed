@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-11-01T14:08:40+03:00</generation-date>
+  <generation-date>2026-11-02T15:09:42+03:00</generation-date>
   <offer internal-id="6941684">
     <type>продажа</type>
     <property-type>жилая</property-type>
@@ -539,7 +539,7 @@
     <oldprice>22196235</oldprice>
     <old_price>22196235</old_price>
     <url>https://lar-dev.ru/kvartiru/6941709/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
-    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409257.png?v=1793182460</image>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409258.png?v=1793568402</image>
     <area>
       <value>37</value>
       <unit>кв. м</unit>
@@ -576,7 +576,7 @@
     <oldprice>22416000</oldprice>
     <old_price>22416000</old_price>
     <url>https://lar-dev.ru/kvartiru/6941710/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
-    <image>https://macroserver.ru/estate/files/get/6941111/4858928/ImOB572ZRN7CX3wxNzIwMTcwNjQ2fGRmOGM0/planirovka_tip_1a-37.36.jpg</image>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409257.png?v=1793568402</image>
     <area>
       <value>37</value>
       <unit>кв. м</unit>
@@ -613,7 +613,7 @@
     <oldprice>47025000</oldprice>
     <old_price>47025000</old_price>
     <url>https://lar-dev.ru/kvartiru/6975999/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
-    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409244.png?v=1793182456</image>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409238.png?v=1793568395</image>
     <area>
       <value>94</value>
       <unit>кв. м</unit>
@@ -798,7 +798,7 @@
     <oldprice>49237941</oldprice>
     <old_price>49237941</old_price>
     <url>https://lar-dev.ru/kvartiru/6976018/?utm_content={{banner_id}}&amp;utm_medium=cpc&amp;utm_source=vk_ads&amp;utm_campaign={{campaign_id}}</url>
-    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409238.png?v=1793182453</image>
+    <image>https://exchange.novostroy-spb.ru/files/plans-new/1682/5409244.png?v=1793568396</image>
     <area>
       <value>94</value>
       <unit>кв. м</unit>
